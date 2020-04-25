@@ -18,6 +18,14 @@ Simcenter-AMESim-setup
 ---
 * 1.在文件夹`Siemens.Simcenter.Amesim.16.0`中，右键`setup_win`，点击`以管理员身份运行`<br>
 * 2.持续下一步，并在激活码处填写`DIGJW72BDR29WJ20HVQ60C721`进行安装，在`Licensing details`窗口选择`Specify port@host`并输入`5053@localhost`。<br>
+![](https://github.com/x570817187/AMESim-setup/blob/master/fig/setup1.png) <br>
+![](https://github.com/x570817187/AMESim-setup/blob/master/fig/setup2.png) <br>
+![](https://github.com/x570817187/AMESim-setup/blob/master/fig/setup3.png) <br>
+![](https://github.com/x570817187/AMESim-setup/blob/master/fig/setup4.png) <br>
+![](https://github.com/x570817187/AMESim-setup/blob/master/fig/setup5.png) <br>
+![](https://github.com/x570817187/AMESim-setup/blob/master/fig/setup6.png) <br>
+![](https://github.com/x570817187/AMESim-setup/blob/master/fig/setup7.png) <br>
+![](https://github.com/x570817187/AMESim-setup/blob/master/fig/setup8.jpg) <br>
 
 
 重启电脑
