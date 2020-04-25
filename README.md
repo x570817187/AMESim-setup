@@ -10,7 +10,7 @@ Simcenter-AMESim-setup
 
 2.复制注册机<br>
 ---
-* 打开`_SolidSQUAD_`文件夹，打开`Win64`，将`_SolidSQUAD_.7z`压缩包进行解压，右键解压到...，并在解压到的文件夹中，右键管理员运行`server_install.bat`<br>
+* 打开`_SolidSQUAD_`文件夹，打开`Win64`，将`_SolidSQUAD_.7z`压缩包进行解压，右键解压到...，选择本地磁盘的地址，例如`D:\Program Files\LMS_RLM_Server`,并在解压到的文件夹中，右键管理员运行`server_install.bat`<br>
 * 设置系统变量：<br>
   右键 `我的电脑` --> `属性` --> 点击左侧 `高级系统设置` --> 点击 `环境变量· --> 在`系统变量`中新建 --> 变量名`LMS_LICENSE` 变量值`5053@localhost` --> 确定<br>
 
@@ -35,3 +35,9 @@ Simcenter-AMESim-setup
 -----
 * 1.右键桌面的`AMESim16` 并点击 `打开文件所在位置` 返回一层至文件夹`D:\Program Files\Simcenter\v1600\Amesim`<br>
 * 2.找到`AMESim_Chinese.bat`文件，右键发送到桌面快捷方式。（此文件打开AMESim则为中文）<br>
+
+长时间运行过程中许可证失效解决办法 <br>
+===
+* 1.打开第二步中注册机复制到的地址，`D:\Program Files\LMS_RLM_Server` <br>
+* 2.右键以管理员身份运行 `server_remove.bat`然后再以管理员身份运行 `server_install.bat`<br>
+* *或者直接运行附带的文件。（两文件整合一起） [文件]
