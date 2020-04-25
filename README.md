@@ -2,8 +2,8 @@
 ====
 Simcenter-AMESim-setup
 
-#Simcenter-AMESim 16 安装
-##1.解压
+#Simcenter-AMESim 16 安装<br>
+##1.解压<br>
 *下载完成后进行解压<br>
 
 ##2.复制注册机
