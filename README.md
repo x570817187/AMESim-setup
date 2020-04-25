@@ -36,8 +36,9 @@ Simcenter-AMESim-setup
 * 1.右键桌面的`AMESim16` 并点击 `打开文件所在位置` 返回一层至文件夹`D:\Program Files\Simcenter\v1600\Amesim`<br>
 * 2.找到`AMESim_Chinese.bat`文件，右键发送到桌面快捷方式。（此文件打开AMESim则为中文）<br>
 
-长时间运行过程中许可证失效解决办法 <br>
+
+<font color=red>长时间运行过程中许可证失效解决办法</font> <br>
 ===
 * 1.打开第二步中注册机复制到的地址，`D:\Program Files\LMS_RLM_Server` <br>
 * 2.右键以管理员身份运行 `server_remove.bat`然后再以管理员身份运行 `server_install.bat`<br>
-* *或者直接运行附带的文件。（两文件整合一起） [文件]
+* *或者直接运行附带的文件。（两文件整合一起） [重启注册机文件](https://github.com/x570817187/AMESim-setup/blob/master/server_restart.bat)
